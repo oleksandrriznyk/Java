@@ -1,5 +1,5 @@
 ﻿If you want to write HTTP CRUD methods that will be match RESTful system you should write it in specific format.
-Take, by way of example HTTP methods on user entity. Then HTTP methods would be like:
+Take, by way of example HTTP methods for user entity. Then HTTP methods would be like:
 
 Create user (POST)
 
